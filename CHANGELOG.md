@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1a3](https://github.com/OpenVoiceOS/ovos-skill-easter-eggs/tree/1.0.1a3) (2024-11-12)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-easter-eggs/compare/1.0.1a2...1.0.1a3)
+
+**Merged pull requests:**
+
+- fix: drop lingua-franca [\#49](https://github.com/OpenVoiceOS/ovos-skill-easter-eggs/pull/49) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.1a2](https://github.com/OpenVoiceOS/ovos-skill-easter-eggs/tree/1.0.1a2) (2024-11-04)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-easter-eggs/compare/1.0.1a1...1.0.1a2)
