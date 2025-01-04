@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1a4](https://github.com/OpenVoiceOS/ovos-skill-easter-eggs/tree/1.0.1a4) (2025-01-04)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-easter-eggs/compare/1.0.1a3...1.0.1a4)
+
+**Merged pull requests:**
+
+- import basque and galician translations [\#51](https://github.com/OpenVoiceOS/ovos-skill-easter-eggs/pull/51) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.1a3](https://github.com/OpenVoiceOS/ovos-skill-easter-eggs/tree/1.0.1a3) (2024-11-12)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-easter-eggs/compare/1.0.1a2...1.0.1a3)
