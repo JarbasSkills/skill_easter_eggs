@@ -25,7 +25,7 @@
     "systemDeps": false,
     "requirements": {
         "python": [
-            "ovos-mark1-utils~=0.0.0a2",
+            "ovos-mark1-utils~=0.0.1",
             "ovos-number-parser>=0.0.1,<1.0.0",
             "ovos-utils>=0.0.38, <1.0.0",
             "ovos_bus_client>=0.0.6, <2.0.0",
